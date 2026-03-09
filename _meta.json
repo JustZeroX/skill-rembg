@@ -1,0 +1,5 @@
+{
+  "name": "rembg",
+  "description": "使用 rembg AI 模型去除图片背景",
+  "version": "0.0.1"
+}
