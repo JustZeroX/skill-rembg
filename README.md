@@ -11,7 +11,6 @@
 
 **中文** | [English](#-english-version)
 
-- [📖 目录](#-目录--table-of-contents)
 - [✨ 功能特点](#-功能特点)
 - [🚀 快速开始](#-快速开始)
 - [📝 使用方法](#-使用方法)
@@ -19,19 +18,7 @@
 - [🔧 高级用法](#-高级用法)
 - [📁 目录结构](#-目录结构)
 - [❓ 常见问题](#-常见问题)
-
----
-
-## 📖 目录 / Table of Contents
-
-- [功能特点](#-功能特点)
-- [快速开始](#-快速开始)
-- [使用方法](#-使用方法)
-- [模型选项](#-模型选项)
-- [高级用法](#-高级用法)
-- [目录结构](#-目录结构)
-- [常见问题](#-常见问题)
-- [References](#-references)
+- [🔗 References](#-references)
 
 ---
 
@@ -276,6 +263,17 @@ rembg 使用 MIT License。详见：https://github.com/danielgatis/rembg/blob/ma
 ## 🌍 English Version
 
 [Top / 返回顶部](#rembg---ai-图片去背景工具)
+
+### 🧭 Quick Navigation
+
+- [✨ Features](#-features)
+- [🚀 Quick Start](#-quick-start)
+- [📝 Usage](#-usage)
+- [🎨 Model Options](#-model-options)
+- [🔧 Advanced Usage](#-advanced-usage)
+- [📁 Directory Structure](#-directory-structure)
+- [❓ FAQ](#-faq)
+- [🔗 References](#-references)
 
 ---
 
